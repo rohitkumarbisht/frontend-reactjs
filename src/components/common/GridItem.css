@@ -1,0 +1,27 @@
+.img-icon{
+    width: 4.375vw;
+}
+
+.custom-typography-value {
+    font-size: 1.38vw !important;
+    font-weight: bold !important;
+    margin-bottom: 0rem !important;
+    color: #0F2744;
+}
+
+.custom-typography-title{
+    margin-bottom: 0em !important;
+    font-size: 1.11vw !important;
+}
+
+/* .css-1cfh48w-MuiGrid-root{
+    max-width: 26% !important;
+} */
+.grid-item-style{
+    padding: 23.38px 35px;
+}
+.custom-grid-item{
+    text-align: start !important;
+    flex-wrap: nowrap !important;
+    padding: 9.4% 8.6% !important;
+}

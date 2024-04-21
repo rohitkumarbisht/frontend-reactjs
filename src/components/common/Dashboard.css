@@ -1,0 +1,28 @@
+.customBox {
+    padding-top: 25px;
+    padding-left: 62px;
+    padding-right: 63px;
+    padding-bottom: 57px;
+  }
+
+.custom-grid-item-1 .css-ibpfkq{
+    padding: 0px !important;
+}
+.custom-grid-item-1 .css-ibpfkq{
+    padding: 0px !important;
+}
+
+.custom-typography {
+    padding: 16px;
+    font-size: 1.375rem !important;
+    text-align: start !important;
+    margin-bottom: 0rem !important;
+    font-weight: bold !important;
+    color: #0F2744;
+}
+.teacher-typography{
+    font-weight: bold !important;
+}
+.custom-item{
+    padding: 0px !important;
+}
