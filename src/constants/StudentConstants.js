@@ -1,0 +1,15 @@
+export const PERFORMANCE_CHART = "Performance chart";
+export const TEST_TIME_FOR_ASSESSMENT = "Test time for assessments";
+export const ASSESSMENT_STATUS = "Assessment status";
+export const ASSESSMENT = "Assessment";
+export const CURRENT_ATTEMPT = "Current Attempt";
+export const STATUS = "Status";
+export const PERCENTAGE = "Percentage";
+export const TEST_TIME = "Test Time";
+export const ATTEMPT_LABEL = "Attempt";
+export const SUBMIT_DATE_LABEL = "Submit Date";
+export const CORRECT_ANSWERS_LABEL = "Correct Answers";
+export const INCORRECT_ANSWERS_LABEL = "Incorrect Answers";
+export const AVERAGE_TIME_PER_QUESTION_LABEL = "Average Time Per Question";
+export const ATTEMPT_WISE_PERFORMANCE_TITLE = "Attempt-Wise Performance";
+export const SKILL_CHART_TITLE = "Skill Chart";
